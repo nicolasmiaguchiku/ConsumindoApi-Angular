@@ -1,0 +1,30 @@
+.container {
+  border-radius: 10px;
+  border-radius: 24px;
+  background: linear-gradient(145deg, #232425, #2a2b2c);
+  box-shadow: 29px 29px 43px #181819, -29px -29px 43px #363839;
+  padding: 20px;
+  width: 500px;
+}
+
+table {
+  margin-top: 40px;
+  width: 100%;
+  text-align: left;
+}
+
+span {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+th {
+  color: #61677A;
+  font-size: .7rem;
+}
+
+th,
+td {
+  padding: 6px 0px;
+  border-top: 1px solid;
+}

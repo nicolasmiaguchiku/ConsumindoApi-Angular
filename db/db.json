@@ -1,0 +1,32 @@
+{
+   "produtos": [
+    {
+      "id": 1,
+      "nome": "Notebook Gamer",
+      "preco": 4599.9,
+      "categoria": "Eletrônicos",
+      "estoque": 12
+    },
+    {
+      "id": 2,
+      "nome": "Mouse Sem Fio",
+      "preco": 89.9,
+      "categoria": "Acessórios",
+      "estoque": 45
+    },
+    {
+      "id": 3,
+      "nome": "Teclado Mecânico",
+      "preco": 259.9,
+      "categoria": "Acessórios",
+      "estoque": 30
+    },
+    {
+      "id": 4,
+      "nome": "Monitor 27 polegadas",
+      "preco": 1299,
+      "categoria": "Eletrônicos",
+      "estoque": 8
+    }
+  ]
+}
